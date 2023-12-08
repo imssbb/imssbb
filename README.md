@@ -18,7 +18,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 
 ### About Me
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<br>
+<h4>Other Passion: </h4> 
+Horology ⏱️ &nbsp; &nbsp; &nbsp; IOT 🛠️  &nbsp; &nbsp; &nbsp; Music 🥁 &nbsp; &nbsp; &nbsp; Photography 📷 &nbsp; &nbsp; &nbsp; Tennis 🎾 
 
 <h4> 🔶 <a href="https://drive.google.com/file/d/13K8Tt5jcbD0VAIKUCB4QeYPOWeN_GfNI/view?usp=sharing">View Stephen's CV</a> </h4>
 
@@ -36,7 +39,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 |Languages|Technologies|Areas of Interest & Learning|
 |---|---|---|
-|<img src="https://skillicons.dev/icons?i=js,html,py&theme=dark&perline=2" alt="Languages"><br>[Description]|<img src="https://skillicons.dev/icons?i=react,nodejs,express,postman,mysql,css,sass,git,github,netlify,heroku,jest,vscode,figma&theme=dark&perline=7" alt="Technologies"><br>[Description]|[![My Skills](https://skillicons.dev/icons?i=ts,aws,bootstrap,tailwind,wordpress,codepen,docker,firebase,flask,flutter,gcp,mongodb,nextjs,php,prisma,raspberrypi,redux&theme=dark&perline=7)](https://skillicons.dev)|
+|<img src="https://skillicons.dev/icons?i=js,py&theme=dark&perline=2" alt="Language"><br>|<img src="https://skillicons.dev/icons?i=react,nodejs,express,postman,mysql,html,css,sass,git,github,netlify,heroku,jest,vscode,figma&theme=dark&perline=7" alt="Technology"><br>|[![My Skills](https://skillicons.dev/icons?i=ts,aws,bootstrap,tailwind,wordpress,codepen,docker,firebase,flask,flutter,gcp,mongodb,nextjs,php,prisma,raspberrypi,redux&theme=dark&perline=7)](https://skillicons.dev)|
 </div>
 
 <details>
@@ -50,9 +53,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     <img height="137px" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imssbb&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
   </p>
 </details>
-
-### Life Obsessions
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
 
 
 
