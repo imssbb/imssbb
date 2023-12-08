@@ -12,16 +12,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h3 align="center"> A Full-Stack Developer in Vancouver, Canada</h3>
 <h4>Transitioning from a successful career in retail management, I am passionate about pivoting my leadership and analytical skills into an exciting journey as a Full-Stack Developer. My experience in managing sales, optimizing operations, and crafting tailored solutions for diverse clients has honed my problem-solving abilities and nurtured a results-driven mindset.</h4>
 
-<div align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=imssbb&theme=dark&hide_border=true&background=FFFFFF00">
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imssbb&layout=compact&theme=dark&hide_border=true)
-
-
-<p align="center">
-  <a href="https://www.facebook.com/bruno.vitorellitacca"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/brunotacca/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## About Me
 
@@ -119,17 +109,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 
 
-
-
--------
-
-
-
-
-### About Me
-
-
-<hr/>
 
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
@@ -245,30 +224,25 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=brunotacca&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotacca&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
+<summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+<br/>
+
+<div align="center">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=imssbb&theme=dark&hide_border=true&background=FFFFFF00">
+</div>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=imssbb&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="137px" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imssbb&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+</p>
+  
 </details>
 
 <hr/>
 
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=imssbb&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/brunotacca/imssbb?color=black&logo=github" />
 </p>
-
-
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=imssbb&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=imssbb&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-
-
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=imssbb)
 
 
