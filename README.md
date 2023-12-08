@@ -13,22 +13,31 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h4>Transitioning from a successful career in retail management, I am passionate about pivoting my leadership and analytical skills into an exciting journey as a Full-Stack Developer. My experience in managing sales, optimizing operations, and crafting tailored solutions for diverse clients has honed my problem-solving abilities and nurtured a results-driven mindset.</h4>
 
 
-## About Me
+### About Me
+
+<div align="center">
+
+|Languages|Technologies|Areas of Interest & Learning|
+|---|---|---|
+|<img src="https://skillicons.dev/icons?i=js,html,py&theme=dark&perline=2" alt="Languages"><br>[Description]|<img src="https://skillicons.dev/icons?i=react,nodejs,express,postman,mysql,css,sass,git,github,netlify,heroku,jest,vscode,figma&theme=dark&perline=7" alt="Technologies"><br>[Description]|[![My Skills](https://skillicons.dev/icons?i=ts,aws,bootstrap,tailwind,wordpress,codepen,docker,firebase,flask,flutter,gcp,mongodb,nextjs,php,prisma,raspberrypi,redux&theme=dark&perline=7)](https://skillicons.dev)|
+</div>
 
 
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>
+  
+  <div align="center">
+    <img src ="https://github-readme-streak-stats.herokuapp.com?user=imssbb&theme=dark&hide_border=true&background=FFFFFF00">
+  </div>
+  <p align="center">
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=imssbb&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+    <img height="137px" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imssbb&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+  </p>
+  
+</details>
 
 
-
-
-
-### Languages
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,py&theme=dark)](https://skillicons.dev)
-
-
-### Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,postman,mysql,css,sass,git,github,netlify,heroku,jest,vscode,figma&theme=dark&perline=7)](https://skillicons.dev)
 
 
 <!--
@@ -37,23 +46,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 [![](https://img.shields.io/badge/-🔊%20English%20Teaching%20Platform-000)](https://github.com/imssbb/imglish-client)
 -->
 
-### Areas of Interest & Learning
 
-[![My Skills](https://skillicons.dev/icons?i=ts,aws,bootstrap,tailwind,wordpress,codepen,docker,firebase,flask,flutter,gcp,mongodb,nextjs,php,prisma,raspberrypi,redux&theme=dark&perline=7)](https://skillicons.dev)
-
-<details>
-<summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-<br/>
-
-<div align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=imssbb&theme=dark&hide_border=true&background=FFFFFF00">
-</div>
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=imssbb&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="137px" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imssbb&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
-</p>
-  
-</details>
 
 <hr/>
 
