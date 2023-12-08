@@ -1,23 +1,27 @@
 <div align="end">
-  
-![Profile View Counter](https://komarev.com/ghpvc/?username=imssbb)
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-i/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imssbb@gmail.com)](mailto:imssbb@gmail.com)
+
+<a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:imssbb@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
 </div>
+
+
+
 <h1 align="center">Hello, I'm Stephen <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h3 align="center"> A Full-Stack Developer in Vancouver, Canada</h3>
+<h4>Transitioning from a successful career in retail management, I am passionate about pivoting my leadership and analytical skills into an exciting journey as a Full-Stack Developer. My experience in managing sales, optimizing operations, and crafting tailored solutions for diverse clients has honed my problem-solving abilities and nurtured a results-driven mindset.</h4>
 
 <div align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=imssbb&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=imssbb&theme=dark&hide_border=true&background=FFFFFF00">
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imssbb&layout=compact&theme=dark&hide_border=true)
 
 
 <p align="center">
-  <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/bruno.vitorellitacca"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/brunotacca/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## About Me
 
@@ -253,11 +257,6 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 <hr/>
 
-<p align="center">
- <a href="https://ko-fi.com/X8X48056Q">
-   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
- </a>
-</p>
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
@@ -269,17 +268,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=imssbb&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 
 
-<!--
-**imssbb/imssbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Profile View Counter](https://komarev.com/ghpvc/?username=imssbb)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
