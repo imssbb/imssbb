@@ -21,18 +21,20 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 <br>
 <h4>Other Passion: </h4> 
-Horology ⏱️ &nbsp; &nbsp; &nbsp; IOT 🛠️  &nbsp; &nbsp; &nbsp; Music 🥁 &nbsp; &nbsp; &nbsp; Photography 📷 &nbsp; &nbsp; &nbsp; Tennis 🎾 
+Horology ⏱ &nbsp; &nbsp; &nbsp; IOT 🛠️  &nbsp; &nbsp; &nbsp; Music 🥁 &nbsp; &nbsp; &nbsp; Photography 📷 &nbsp; &nbsp; &nbsp; Tennis 🎾 
 
 <h4> 🔶 <a href="https://drive.google.com/file/d/13K8Tt5jcbD0VAIKUCB4QeYPOWeN_GfNI/view?usp=sharing">View Stephen's CV</a> </h4>
 
 
 ### Currently
-- Transitioning from a successful career in retail management to pursue a passion for Full-Stack Development.
-- Excited about leveraging leadership and analytical skills for a dynamic journey in the tech industry.
-- Problem-solving mindset cultivated through managing sales, optimizing operations, and crafting tailored solutions.
-- Transitioning from a successful career in retail management to pursue a passion for Full-Stack Development.
-- Excited about leveraging leadership and analytical skills for a dynamic journey in the tech industry.
-- Problem-solving mindset cultivated through managing sales, optimizing operations, and crafting tailored solutions.
+🧑‍🏫 Currently working as a Teaching Assistant at Brainstation, invited post-diploma BootCamp completion
+
+🚀 Actively enhancing my capstone project, Imglish, incorporating features like authentication, AWS integration, and refining the student-teacher experience
+
+💻 Diving deeper into data structures and algorithms to strengthen my grasp of JavaScript
+
+📚 Continuous learning to broaden my skill set and pave the way for securing my first job
+ 
 
 <br>
 <div align="center">
