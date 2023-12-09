@@ -27,15 +27,16 @@ Horology ⏱ &nbsp; &nbsp; &nbsp; IOT 🛠️  &nbsp; &nbsp; &nbsp; Music 🥁 &
 
 
 ### Currently
-🧑‍🏫 Currently working as a Teaching Assistant at Brainstation, invited post-diploma BootCamp completion
-
-🚀 Actively enhancing my capstone project, Imglish, incorporating features like authentication, AWS integration, and refining the student-teacher experience
-
-💻 Diving deeper into data structures and algorithms to strengthen my grasp of JavaScript
-
-📚 Continuous learning to broaden my skill set and pave the way for securing my first job
+- 🧑‍🏫 Currently working as a Teaching Assistant at Brainstation for the Web Development Diploma Program
+- 💻 Diving deeper into data structures, algorithms
+- 📚 Exploring and learning new Framework and Technology 
+- 🚀 Actively enhancing my capstone project, Imglish. Incorporating to add new features:
+  -  Authentication
+  -  AWS integration
+  -  Payment Integration
+  -  Teacher-side portal 
+  -  Refining Student-Teacher Experience
  
-
 <br>
 <div align="center">
 
